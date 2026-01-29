@@ -1,6 +1,6 @@
 # RoboFinder
 
-RoboFinder is a more advanced tool that allows you to search for old 'robots.txt' files of a given URL on archive.org. By leveraging the vast archives of the internet, RoboFinder retrieves historical versions of the 'robots.txt' file and presents all the old paths and parameters associated with it.
+RoboFinder is an advanced tool that allows you to search for old 'robots.txt' files of a given URL on archive.org. By leveraging the vast archives of the internet, RoboFinder retrieves historical versions of the 'robots.txt' file and presents all the old paths and parameters associated with it.
 
 ## Features
 
